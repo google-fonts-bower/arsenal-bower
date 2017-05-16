@@ -1,0 +1,17 @@
+{
+    "name": "arsenal-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Andrij Shevchenko"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/arsenal-bower.git"
+    },
+    "description": "Arsenal font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
